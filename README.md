@@ -34,7 +34,7 @@ Make sure you have the following installed on your system:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/envelope-budget-app.git
+    git clone https://github.com/Bhupendra-Maurya/envelope-budget-app
     cd envelope-budget-app
     ```
 
